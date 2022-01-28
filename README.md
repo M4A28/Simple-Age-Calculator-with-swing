@@ -3,7 +3,7 @@
 - this is a Simple Age Calculator to calculate your age 
 - use date foramt (dd-MM-yyyy)
 
-- ##### foallow me in twitter   [M4A28](www.twitter.com/M4A28 )
+- ##### foallow me in twitter   [M4A28](https://www.twitter.com/M4A28 )
 
 ### Images
 
